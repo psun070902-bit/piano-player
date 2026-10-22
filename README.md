@@ -2,11 +2,13 @@
 
 [한국어 설명서](README.ko.md)
 
+**[Download English (Windows x64)](https://github.com/psun070902-bit/piano-player/raw/refs/heads/main/downloads/v1.0.0/piano-player-1.0.0-windows-x64-en.zip)** · **[한국어판 다운로드](https://github.com/psun070902-bit/piano-player/raw/refs/heads/main/downloads/v1.0.0/piano-player-1.0.0-windows-x64-ko.zip)** · [SHA-256 checksums](downloads/v1.0.0/SHA256SUMS.txt)
+
 A Windows x64 piano player with Korean and English interfaces. It sends keyboard input to a compatible Roblox piano or Windows MIDI messages to a configured VRChat piano setup. Both editions use the same C engine.
 
 ## Download and start
 
-1. Open [Releases](https://github.com/psun070902-bit/piano-player/releases) and download the `windows-x64-en.zip` (English) or `windows-x64-ko.zip` (Korean) asset.
+1. Use the download links above: `windows-x64-en.zip` is English and `windows-x64-ko.zip` is Korean. The files are public; no GitHub account is needed to download them.
 2. Extract the whole ZIP. Keep the `songs` folder beside the executables.
 3. Add your own authorized `.mid`, `.midi` or supported `.vps` files to `songs`.
 4. Run `piano_native_gui.exe`, click **Refresh**, select a song and an output mode, then **Play**.

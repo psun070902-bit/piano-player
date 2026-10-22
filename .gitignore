@@ -7,6 +7,9 @@
 *.ilk
 *.log
 *.zip
+!/downloads/
+!/downloads/v1.0.0/
+!/downloads/v1.0.0/*.zip
 *.mp3
 *.wav
 *.flac

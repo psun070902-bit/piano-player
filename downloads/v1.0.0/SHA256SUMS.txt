@@ -1,0 +1,2 @@
+9c3f7e21b14b7017cec298acdb63a8ee6dd33384be1e61710d09431a3fea5287  piano-player-1.0.0-windows-x64-ko.zip
+220180e310e5692c3097aa8f7e5e5bcfd265c148323091a774bf9a23177e724a  piano-player-1.0.0-windows-x64-en.zip

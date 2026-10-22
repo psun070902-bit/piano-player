@@ -2,11 +2,13 @@
 
 [English documentation](README.md)
 
+**[한국어판 다운로드 (Windows x64)](https://github.com/psun070902-bit/piano-player/raw/refs/heads/main/downloads/v1.0.0/piano-player-1.0.0-windows-x64-ko.zip)** · **[Download English](https://github.com/psun070902-bit/piano-player/raw/refs/heads/main/downloads/v1.0.0/piano-player-1.0.0-windows-x64-en.zip)** · [SHA-256 검증값](downloads/v1.0.0/SHA256SUMS.txt)
+
 Windows x64용 피아노 플레이어입니다. 한국어판과 영어판은 같은 C 연주 엔진을 사용하며, 호환되는 Roblox 피아노에 키보드 입력을 보내거나 설정된 VRChat 피아노에 Windows MIDI를 보냅니다.
 
 ## 다운로드 및 실행
 
-1. [Releases](https://github.com/psun070902-bit/piano-player/releases)에서 한국어판 `windows-x64-ko.zip` 또는 영어판 `windows-x64-en.zip`을 받습니다.
+1. 위의 다운로드 링크에서 한국어판 `windows-x64-ko.zip` 또는 영어판 `windows-x64-en.zip`을 받습니다. 공개 파일이므로 다운로드에 GitHub 계정이 필요하지 않습니다.
 2. ZIP 전체를 압축 해제합니다. 실행 파일 옆의 `songs` 폴더를 유지해 주세요.
 3. 사용 권한이 있는 `.mid`, `.midi`, 지원되는 `.vps` 파일을 `songs` 폴더에 넣습니다.
 4. `piano_native_gui.exe`를 실행하여 **새로고침**을 누르고, 곡과 출력 방식을 선택한 뒤 **재생**합니다.
